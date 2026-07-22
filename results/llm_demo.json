@@ -1,0 +1,1282 @@
+[
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 3,
+    "response": "I haven't had a chance to read Fatal Charm yet, but I'd be happy to discuss it with you once you've finished reading it. You mentioned earlier that you were interested in discussing the book, so I'm looking forward to hearing your thoughts on it.",
+    "episode": 0,
+    "query_id": 0,
+    "query": "I need to read it so we can talk about it when you are done. Have you read Fatal Charm?"
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 52,
+    "context_tokens": 1304,
+    "judge_score": 4,
+    "response": "I've already finished reading Fatal Charm and I'd love to discuss it with you! It's a great example of a true crime-inspired novel that really keeps you on the edge of your seat. What do you think about the idea of reading it now?",
+    "episode": 0,
+    "query_id": 0,
+    "query": "I need to read it so we can talk about it when you are done. Have you read Fatal Charm?"
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 125,
+    "judge_score": 3,
+    "response": "I'm glad you're interested in discussing The Butterfly Garden! As for Fatal Charm, I don't have personal experiences or memories of reading books, but I'd be happy to help you find a similar true crime book to read next. Would you like some recommendations based on your interest in serial killers and true crime?",
+    "episode": 0,
+    "query_id": 0,
+    "query": "I need to read it so we can talk about it when you are done. Have you read Fatal Charm?"
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 472,
+    "judge_score": 3,
+    "response": "I'm glad you're interested in discussing books with me! Unfortunately, I haven't read \"Fatal Charm\" yet, but I'd love to discuss it with you once you've finished reading it. You mentioned earlier that you enjoyed \"Billy Straight\", which is a true crime story - are you looking for more books like that?",
+    "episode": 0,
+    "query_id": 0,
+    "query": "I need to read it so we can talk about it when you are done. Have you read Fatal Charm?"
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "I remember you were researching Randy Roth, also known as \"The Wife Killer\". He was an American serial killer who murdered three of his four wives in the 1970s and 1980s. What specific aspect of his case would you like to know more about?",
+    "episode": 0,
+    "query_id": 1,
+    "query": "It's about a serial killer named Randy Roth who killed his wives. "
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 52,
+    "context_tokens": 1304,
+    "judge_score": 4,
+    "response": "That sounds like a fascinating and disturbing topic! I can see why it would be haunting to read about. You mentioned earlier that you're looking for another true crime book similar to Fatal Charm, have you considered checking out the Libby app's collection? They often have a wide selection of e-books, including some popular true crime titles.",
+    "episode": 0,
+    "query_id": 1,
+    "query": "It's about a serial killer named Randy Roth who killed his wives. "
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 261,
+    "judge_score": 4,
+    "response": "That sounds familiar! You mentioned reading \"Fatal Charm\" earlier, which also involved a husband killing his wives in staged accidents. I think you might be thinking of the same author or similar themes. Would you like some book recommendations that explore true crime and serial killers?",
+    "episode": 0,
+    "query_id": 1,
+    "query": "It's about a serial killer named Randy Roth who killed his wives. "
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 472,
+    "judge_score": 4,
+    "response": "It sounds like we're on the same wavelength with true crime stories! I remember you mentioned reading \"Billy Straight\" and enjoying it, which is also a true crime story. Have you checked out any other books by T.C. Boyle, the author of \"Billy Straight\"?",
+    "episode": 0,
+    "query_id": 1,
+    "query": "It's about a serial killer named Randy Roth who killed his wives. "
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "I'm glad you think so! I remember you mentioned earlier that you're a fan of true crime podcasts, is this book based on a real case or more fictionalized?",
+    "episode": 0,
+    "query_id": 2,
+    "query": "You definately should. If you like serial killer books and mysteries you will love it. "
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 52,
+    "context_tokens": 1304,
+    "judge_score": 3,
+    "response": "I've been meaning to get into more Stephen King books, especially the ones that have been adapted into movies. Do you think I'd enjoy \"Misery\" or \"Carrie\"?",
+    "episode": 0,
+    "query_id": 2,
+    "query": "You definately should. If you like serial killer books and mysteries you will love it. "
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 179,
+    "judge_score": 4,
+    "response": "I'm glad you're interested! I think you'll really enjoy the twists and turns in The Butterfly Garden, it's a real page-turner. Have you considered checking out any of the works by Tess Gerritsen or Tana French, they're both authors known for their suspenseful mysteries?",
+    "episode": 0,
+    "query_id": 2,
+    "query": "You definately should. If you like serial killer books and mysteries you will love it. "
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 472,
+    "judge_score": 4,
+    "response": "I'm glad you think so! I actually have Amazon Prime, which gives me access to a wide selection of e-books, including Kindle Unlimited titles. I've been meaning to check out some true crime stories on there, especially since we were just discussing them. Have you tried any other authors similar to Jeff Wheeler?",
+    "episode": 0,
+    "query_id": 2,
+    "query": "You definately should. If you like serial killer books and mysteries you will love it. "
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "It sounds like you were looking for a device that would offer a larger display without breaking the bank, which is exactly what this device provides. Did you find that the portability of this device meets your needs?",
+    "episode": 0,
+    "query_id": 3,
+    "query": "It's good. It's got a better screen than my phone and it's bigger. I mostly got it because it was bigger than my phone and it was cheaper than a tablet. "
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 52,
+    "context_tokens": 1304,
+    "judge_score": 4,
+    "response": "You're referring to your e-reader! You mentioned earlier that you have Kindle Unlimited and use the Libby app, so I'm guessing this is an e-reader for reading books on the go. How do you like using it?",
+    "episode": 0,
+    "query_id": 3,
+    "query": "It's good. It's got a better screen than my phone and it's bigger. I mostly got it because it was bigger than my phone and it was cheaper than a tablet. "
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 103,
+    "judge_score": 4,
+    "response": "It sounds like your new e-reader is serving its purpose well, providing a larger screen for reading without breaking the bank. I'm glad to hear you're enjoying it! By the way, have you considered exploring any true crime podcasts or documentaries that might complement your Kindle collection?",
+    "episode": 0,
+    "query_id": 3,
+    "query": "It's good. It's got a better screen than my phone and it's bigger. I mostly got it because it was bigger than my phone and it was cheaper than a tablet. "
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 460,
+    "judge_score": 4,
+    "response": "It sounds like you're happy with your Kindle, which is great since you have access to so many free books through Amazon Prime! By the way, I remember that you mentioned reading \"Billy Straight\" and really enjoying it - did you find that book's true crime story similar in style or tone to what you've been reading lately?",
+    "episode": 0,
+    "query_id": 3,
+    "query": "It's good. It's got a better screen than my phone and it's bigger. I mostly got it because it was bigger than my phone and it was cheaper than a tablet. "
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "Congratulations on your win! How did it feel to come out on top? Was this a competition you've been training for or was it a last-minute opportunity?",
+    "episode": 1,
+    "query_id": 0,
+    "query": "I won my fight today."
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 50,
+    "context_tokens": 844,
+    "judge_score": 4,
+    "response": "Congratulations are in order! I'm glad to hear that you had a successful match. How does it feel to have gotten back on track after your recent string of losses?",
+    "episode": 1,
+    "query_id": 0,
+    "query": "I won my fight today."
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 87,
+    "judge_score": 4,
+    "response": "Congratulations on winning your fight! I remember you mentioned trying wrestling for the first time and it sounds like you're getting into it - how does it feel to have a win under your belt now?",
+    "episode": 1,
+    "query_id": 0,
+    "query": "I won my fight today."
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 211,
+    "judge_score": 4,
+    "response": "That's amazing! Congratulations on your win! I'm glad to hear you're enjoying wrestling as a job - it's great that you get to channel your energy and frustration into something competitive. How does it feel to have come out on top?",
+    "episode": 1,
+    "query_id": 0,
+    "query": "I won my fight today."
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "I'm so glad to hear that your hard work is paying off! You've been putting in extra effort on the mat, and it's great to see you're starting to see results. That must have been an exhilarating win today - what was going through your mind during the fight?",
+    "episode": 1,
+    "query_id": 1,
+    "query": "I am. I am really trying to learn from those loses, and it seems to be paying off in practices. AND TODAY! What a fight!!!"
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 50,
+    "context_tokens": 844,
+    "judge_score": 4,
+    "response": "That's awesome to hear! Congratulations on your win today! I'm glad to see you're taking the losses as opportunities for growth and improvement - that's definitely a key part of success in wrestling. How does it feel to have a good match under your belt after some tough losses?",
+    "episode": 1,
+    "query_id": 1,
+    "query": "I am. I am really trying to learn from those loses, and it seems to be paying off in practices. AND TODAY! What a fight!!!"
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 118,
+    "judge_score": 4,
+    "response": "That's awesome to hear about your recent win! I'm glad to see all the hard work you've been putting in is starting to pay off on the mat. How does it feel to have turned things around after those tough losses?",
+    "episode": 1,
+    "query_id": 1,
+    "query": "I am. I am really trying to learn from those loses, and it seems to be paying off in practices. AND TODAY! What a fight!!!"
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 211,
+    "judge_score": 4,
+    "response": "That's awesome to hear! I'm glad to see you're taking the lessons from your losses and applying them to your training - it's clear that hard work is paying off for you in the ring. How does it feel to have a strong performance like today?",
+    "episode": 1,
+    "query_id": 1,
+    "query": "I am. I am really trying to learn from those loses, and it seems to be paying off in practices. AND TODAY! What a fight!!!"
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 3,
+    "response": "I'm glad to hear that everything turned out well! You were indeed on edge for a bit there, but it sounds like you handled it with ease. What was the situation that had you feeling so anxious - was it something specific or just a general sense of uncertainty?",
+    "episode": 1,
+    "query_id": 2,
+    "query": "You had to ask, didn't you?! I jest. But it was very close. I was worried I was going to lose at first, but I just stayed focused and in the moment. It really is all about trusting your instincts and not getting in your own way. "
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 50,
+    "context_tokens": 844,
+    "judge_score": 4,
+    "response": "You're a natural! I remember you mentioning that wrestling can be cathartic, and it sounds like you were able to tap into that during the match. Did you feel more centered or calm after it was over?",
+    "episode": 1,
+    "query_id": 2,
+    "query": "You had to ask, didn't you?! I jest. But it was very close. I was worried I was going to lose at first, but I just stayed focused and in the moment. It really is all about trusting your instincts and not getting in your own way. "
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 122,
+    "judge_score": 4,
+    "response": "I'm glad to hear that! You've been saying that staying focused and being present in the moment has helped you with wrestling, and it sounds like it's paying off for you. How do you think your experience on the mat is translating to other areas of your life?",
+    "episode": 1,
+    "query_id": 2,
+    "query": "You had to ask, didn't you?! I jest. But it was very close. I was worried I was going to lose at first, but I just stayed focused and in the moment. It really is all about trusting your instincts and not getting in your own way. "
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 7,
+    "context_tokens": 179,
+    "judge_score": 4,
+    "response": "I remember how much you value staying focused and present when tackling challenges! It's great that you were able to draw on those skills during your wrestling experience, even if it was just a one-time tryout. Did working on the Mustangs require any of that same mental clarity?",
+    "episode": 1,
+    "query_id": 2,
+    "query": "You had to ask, didn't you?! I jest. But it was very close. I was worried I was going to lose at first, but I just stayed focused and in the moment. It really is all about trusting your instincts and not getting in your own way. "
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "That's great news! I remember you were hoping this fight would pay out well for your boxing gym. Do you think it'll help cover some of the expenses from the recent renovations?",
+    "episode": 1,
+    "query_id": 3,
+    "query": "I sure hope so. This fight paid $5,000!"
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 50,
+    "context_tokens": 844,
+    "judge_score": 3,
+    "response": "That's a decent payday, but I'm guessing you're not exactly thrilled about the outcome? How are you feeling after that match?",
+    "episode": 1,
+    "query_id": 3,
+    "query": "I sure hope so. This fight paid $5,000!"
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 124,
+    "judge_score": 4,
+    "response": "That's a nice payday for your first fight! You mentioned earlier that it was a great way to relieve stress and get in shape, but I'm guessing the financial reward doesn't hurt either. How does it feel to have earned some extra money from wrestling?",
+    "episode": 1,
+    "query_id": 3,
+    "query": "I sure hope so. This fight paid $5,000!"
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 7,
+    "context_tokens": 182,
+    "judge_score": 4,
+    "response": "That's a nice payday! You mentioned earlier that you've been working on restoring those classic Mustangs, maybe the extra cash will come in handy for some new parts or tools?",
+    "episode": 1,
+    "query_id": 3,
+    "query": "I sure hope so. This fight paid $5,000!"
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "I've actually been considering that option, and I think it's a great idea. You mentioned earlier that you're on a tight budget, so community college classes would definitely help with costs. Plus, many community colleges have articulation agreements with four-year universities, making it easier to transfer credits later on.",
+    "episode": 2,
+    "query_id": 0,
+    "query": "Have you thought about looking into community college classes as a starting point to study economics? It could be a good way to get some of the basic courses taken care of at a lower price. "
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 50,
+    "context_tokens": 1031,
+    "judge_score": 4,
+    "response": "That's actually a great idea, I've been considering that route too! Community college can be a fantastic way to get started on a new path without breaking the bank. And who knows, it might just give me the confidence and momentum to pursue a four-year degree later on. Thanks for the suggestion!",
+    "episode": 2,
+    "query_id": 0,
+    "query": "Have you thought about looking into community college classes as a starting point to study economics? It could be a good way to get some of the basic courses taken care of at a lower price. "
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 93,
+    "judge_score": 4,
+    "response": "I actually considered taking your advice and looked into community college classes, but I'm not sure if it's worth the time commitment for just a few introductory courses. You mentioned majoring in economics, so I was thinking maybe I could start with some online resources or textbooks to get a feel for the subject before investing too much time.",
+    "episode": 2,
+    "query_id": 0,
+    "query": "Have you thought about looking into community college classes as a starting point to study economics? It could be a good way to get some of the basic courses taken care of at a lower price. "
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 161,
+    "judge_score": 4,
+    "response": "That's actually not a bad idea, considering your current financial situation and demanding job. Community college classes can provide a more affordable introduction to economics without requiring a significant commitment or reduction in pay.",
+    "episode": 2,
+    "query_id": 0,
+    "query": "Have you thought about looking into community college classes as a starting point to study economics? It could be a good way to get some of the basic courses taken care of at a lower price. "
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "That's a significant commitment you made to your education earlier in life. Considering the time investment required for an MBA, have you thought about online or part-time programs that might offer more flexible scheduling?",
+    "episode": 2,
+    "query_id": 1,
+    "query": "I had to work days, so I took classes at night for 8 years. I'd love to go on for an MBA, but it would take me another 8 to get there."
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 50,
+    "context_tokens": 1031,
+    "judge_score": 4,
+    "response": "It's great that you're thinking about furthering your education! Given your experience with balancing work and school, I'm sure you'll be able to make a plan to pursue an MBA if you decide to go for it. What specific areas of business are you interested in studying?",
+    "episode": 2,
+    "query_id": 1,
+    "query": "I had to work days, so I took classes at night for 8 years. I'd love to go on for an MBA, but it would take me another 8 to get there."
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 106,
+    "judge_score": 4,
+    "response": "It sounds like you've already demonstrated your commitment to education by going back to school while working full-time. Pursuing an MBA is a significant investment of time and resources, so it's great that you're considering the long-term implications. What specific aspects of business management are you interested in studying further?",
+    "episode": 2,
+    "query_id": 1,
+    "query": "I had to work days, so I took classes at night for 8 years. I'd love to go on for an MBA, but it would take me another 8 to get there."
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 169,
+    "judge_score": 4,
+    "response": "It sounds like you've already made significant sacrifices to balance work and school. Considering the time commitment required for an MBA, perhaps we could explore other options that might be more feasible with your current schedule.",
+    "episode": 2,
+    "query_id": 1,
+    "query": "I had to work days, so I took classes at night for 8 years. I'd love to go on for an MBA, but it would take me another 8 to get there."
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "That's a great point, actually. I was thinking more along the lines of clinical work, but the business side of healthcare is fascinating and could be a good fit for me. It might even complement my interest in public policy.",
+    "episode": 2,
+    "query_id": 2,
+    "query": "I think so. You say you don't want to study anything to do with medicine, but I would think the economics of healthcare and hospitals would make for an interesting study."
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 50,
+    "context_tokens": 1031,
+    "judge_score": 4,
+    "response": "That's a great point! As someone who has worked in hospitals, you have a unique perspective on the economics of healthcare. It could be a fascinating area of study, and one that might even allow you to apply your skills in a more meaningful way.",
+    "episode": 2,
+    "query_id": 2,
+    "query": "I think so. You say you don't want to study anything to do with medicine, but I would think the economics of healthcare and hospitals would make for an interesting study."
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 104,
+    "judge_score": 4,
+    "response": "I see what you mean about the economics of healthcare! While it's not directly related to medical procedures, it could be a fascinating field that combines economic principles with the healthcare industry. Would you say that's something that might pique your interest?",
+    "episode": 2,
+    "query_id": 2,
+    "query": "I think so. You say you don't want to study anything to do with medicine, but I would think the economics of healthcare and hospitals would make for an interesting study."
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 170,
+    "judge_score": 3,
+    "response": "I see what you mean about the intersection of economics and healthcare! While it's not my first choice, I can appreciate the potential for a fascinating study. However, I'm still drawn to more general economic principles, such as macroeconomics or international trade.",
+    "episode": 2,
+    "query_id": 2,
+    "query": "I think so. You say you don't want to study anything to do with medicine, but I would think the economics of healthcare and hospitals would make for an interesting study."
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "That's a tough transition period you went through. I remember you mentioning earlier that you were looking to switch careers into something more creative, was the job you eventually found what you were hoping for?",
+    "episode": 2,
+    "query_id": 3,
+    "query": "I quit my day job thinking I would be hired right away, but then had to go to work at nights in the university hamburger and pizza bar for six months before I found the right position."
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 50,
+    "context_tokens": 1031,
+    "judge_score": 4,
+    "response": "I remember when you mentioned considering going back to school and finding a new passion. It sounds like life took an unexpected turn after that conversation! Working at a university hamburger and pizza bar can be a challenging but valuable experience, though - did you find any silver linings or skills that you developed during your time there?",
+    "episode": 2,
+    "query_id": 3,
+    "query": "I quit my day job thinking I would be hired right away, but then had to go to work at nights in the university hamburger and pizza bar for six months before I found the right position."
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 124,
+    "judge_score": 4,
+    "response": "I remember you mentioning that your previous job was demanding and didn't pay well. It sounds like you took a bold step by quitting, and it's great that you're now in a role that feels like home. How do you think working at the university hamburger and pizza bar helped prepare you for your current position?",
+    "episode": 2,
+    "query_id": 3,
+    "query": "I quit my day job thinking I would be hired right away, but then had to go to work at nights in the university hamburger and pizza bar for six months before I found the right position."
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 208,
+    "judge_score": 4,
+    "response": "It sounds like you've been through a bit of a challenging time since quitting your day job. I remember you mentioning that economics wasn't as easily employable as you thought, so it's not surprising that it took some time to find the right fit. Did working at the university hamburger and pizza bar give you any valuable experience or skills in the meantime?",
+    "episode": 2,
+    "query_id": 3,
+    "query": "I quit my day job thinking I would be hired right away, but then had to go to work at nights in the university hamburger and pizza bar for six months before I found the right position."
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "That's great to hear! It's wonderful that you're finding ways to give back and make a positive impact on your community, especially during the holiday season. How did you get involved with volunteering in the first place?",
+    "episode": 3,
+    "query_id": 0,
+    "query": "I am happy to say that volunteering the last couple days has actually made me slightly excited for the holidays since I will be helping the community. "
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 52,
+    "context_tokens": 1038,
+    "judge_score": 4,
+    "response": "That's wonderful to hear! I'm so glad to see you're feeling more positive about the holiday season. It's great that our conversation and your volunteer work have had a positive impact on your mood. How are you finding the experience of volunteering at the soup kitchen?",
+    "episode": 3,
+    "query_id": 0,
+    "query": "I am happy to say that volunteering the last couple days has actually made me slightly excited for the holidays since I will be helping the community. "
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 118,
+    "judge_score": 4,
+    "response": "That's wonderful to hear! It sounds like getting involved with the soup kitchen is really making a positive impact on your holiday season, and it's great that you're feeling more enthusiastic about it now. Did you have any particularly rewarding moments or interactions with the people you've been helping so far?",
+    "episode": 3,
+    "query_id": 0,
+    "query": "I am happy to say that volunteering the last couple days has actually made me slightly excited for the holidays since I will be helping the community. "
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 249,
+    "judge_score": 4,
+    "response": "I'm so glad to hear that! It's wonderful how giving back can shift your perspective and bring some joy during a tough time of year. You're really making a difference, not just for others, but also for yourself.",
+    "episode": 3,
+    "query_id": 0,
+    "query": "I am happy to say that volunteering the last couple days has actually made me slightly excited for the holidays since I will be helping the community. "
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "Actually, I remember that you mentioned earlier that your sister's farm has a lot of goats and sheep, so if we could focus on helping those animals, it might be more efficient for the volunteers who will be assisting them. Does that sound like a good plan to you?",
+    "episode": 3,
+    "query_id": 1,
+    "query": "Oh of course, the more the merrier. They will take as much help as they can get. Is there any animal you prefer or does it not matter?"
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 52,
+    "context_tokens": 1038,
+    "judge_score": 4,
+    "response": "I think we've established that you have a soft spot for birds, especially your own bird who loves cheeseburgers! But I'm sure the soup kitchen would be happy to have volunteers with any level of experience or preference when it comes to animals. Would you like me to ask about specific tasks or roles at the soup kitchen?",
+    "episode": 3,
+    "query_id": 1,
+    "query": "Oh of course, the more the merrier. They will take as much help as they can get. Is there any animal you prefer or does it not matter?"
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 113,
+    "judge_score": 4,
+    "response": "I'm glad you're excited about helping out! Actually, I think you mentioned before that you're an animal lover in general, but if I recall correctly, you didn't have a specific preference for a particular type of animal. Would you like to help with cats, dogs, or maybe something else?",
+    "episode": 3,
+    "query_id": 1,
+    "query": "Oh of course, the more the merrier. They will take as much help as they can get. Is there any animal you prefer or does it not matter?"
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 274,
+    "judge_score": 3,
+    "response": "I'm glad you're excited about volunteering together! As for animals, I think it's great that you have experience with them, but since you mentioned you're too old for chasing around, perhaps we could focus on helping with the administrative tasks or interacting with the animals in a more low-key way.",
+    "episode": 3,
+    "query_id": 1,
+    "query": "Oh of course, the more the merrier. They will take as much help as they can get. Is there any animal you prefer or does it not matter?"
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 3,
+    "response": "It's true that cartoons often depict cats and dogs as sworn enemies! However, in reality, many households successfully introduce cats and dogs to live harmoniously together. What kind of lifestyle do you have, by the way?",
+    "episode": 3,
+    "query_id": 2,
+    "query": "I have a cat, but I have been thinking about getting a dog. All the cartoons growing up make me think they cannot get along though haha"
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 52,
+    "context_tokens": 1038,
+    "judge_score": 3,
+    "response": "I remember you mentioning your bird loves cheeseburgers! As for your cat and potential new furry friend, it's not uncommon for cats and dogs to get along, but it does require some effort and patience from both pets and their owners. If you're considering getting a dog, I'd be happy to help you brainstorm ways to introduce them to each other safely.",
+    "episode": 3,
+    "query_id": 2,
+    "query": "I have a cat, but I have been thinking about getting a dog. All the cartoons growing up make me think they cannot get along though haha"
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 91,
+    "judge_score": 4,
+    "response": "Getting a dog can be a big decision, especially with a cat already in the household. Many cats and dogs can live harmoniously together, so it's worth considering introducing them slowly to see how they interact. Have you thought about what breed of dog might be a good fit for your lifestyle?",
+    "episode": 3,
+    "query_id": 2,
+    "query": "I have a cat, but I have been thinking about getting a dog. All the cartoons growing up make me think they cannot get along though haha"
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 273,
+    "judge_score": 4,
+    "response": "Getting a dog can be a big decision! It's great that you're considering it, and with your experience volunteering at an animal shelter in the past, you might have some insight into what kind of furry friend would be a good fit for you. As for your cat, many people successfully introduce dogs to their households, so it's worth exploring options like dog training or gradual introductions to ensure a harmonious household.",
+    "episode": 3,
+    "query_id": 2,
+    "query": "I have a cat, but I have been thinking about getting a dog. All the cartoons growing up make me think they cannot get along though haha"
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 2,
+    "response": "No, I didn't name my bird \"Cheese\" because of cheeseburgers. Actually, I'm just a computer program and don't have a pet bird or any physical presence. I'm here to help answer your questions and provide information!",
+    "episode": 3,
+    "query_id": 3,
+    "query": "That's why I don't think it would be the best idea...maybe once my cat gets a little older. Did you name your bird cheese because it likes cheeseburgers?"
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 52,
+    "context_tokens": 1038,
+    "judge_score": 3,
+    "response": "No, I didn't name her Cheese because of her love for cheeseburgers, but rather because she's a sweet and endearing bird. She's actually named after the type of bird she is, but we've just always called her Cheese for short!",
+    "episode": 3,
+    "query_id": 3,
+    "query": "That's why I don't think it would be the best idea...maybe once my cat gets a little older. Did you name your bird cheese because it likes cheeseburgers?"
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 57,
+    "judge_score": 3,
+    "response": "No, I actually named her after a different type of food, but I'm glad to hear that she shares your taste in cheeseburgers! As for your concern about the soup kitchen idea, I think it's great that you're considering the well-being of both your cat and bird.",
+    "episode": 3,
+    "query_id": 3,
+    "query": "That's why I don't think it would be the best idea...maybe once my cat gets a little older. Did you name your bird cheese because it likes cheeseburgers?"
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 250,
+    "judge_score": 3,
+    "response": "No, I didn't name her Cheese because of that reason. I actually named her after a favorite aunt of mine who was known for being sweet and gentle, just like the bird. She's a lovely companion, but I'm sure she doesn't need cheeseburgers in her diet!",
+    "episode": 3,
+    "query_id": 3,
+    "query": "That's why I don't think it would be the best idea...maybe once my cat gets a little older. Did you name your bird cheese because it likes cheeseburgers?"
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "Germany is known for its excellent Riesling and Pinot Gris wines, particularly in the Mosel and Pfalz regions. You may also want to consider visiting the wine festival in Mainz or taking a wine tour in the Nahe region. Have you thought about which time of year you'd like to visit?",
+    "episode": 4,
+    "query_id": 0,
+    "query": "I think I might plan a trip to Germany to sample some more of their white wines. "
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 50,
+    "context_tokens": 908,
+    "judge_score": 4,
+    "response": "Germany is a wonderful country with a rich wine culture! You'll have to try the Riesling from the Mosel region, it's one of my favorites. And don't forget to visit the vineyards and enjoy the scenic views while you're there.",
+    "episode": 4,
+    "query_id": 0,
+    "query": "I think I might plan a trip to Germany to sample some more of their white wines. "
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 74,
+    "judge_score": 4,
+    "response": "That's great to hear that you're interested in exploring German whites further! You mentioned earlier that you loved the Schwartzkatz, so I'd recommend checking out some other Rieslings or Gew\u00fcrztraminers while you're there. Have you thought about visiting any specific wine regions in Germany?",
+    "episode": 4,
+    "query_id": 0,
+    "query": "I think I might plan a trip to Germany to sample some more of their white wines. "
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 225,
+    "judge_score": 4,
+    "response": "Germany is a wonderful country with a rich wine culture! You'll have plenty of opportunities to try different German whites, and who knows, you may discover a new favorite. Maybe I'll even convert you into a German white wine enthusiast like yourself!",
+    "episode": 4,
+    "query_id": 0,
+    "query": "I think I might plan a trip to Germany to sample some more of their white wines. "
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 3,
+    "response": "I'd love to help, but I'm a virtual assistant and can't physically accompany you on your trip. However, I can certainly provide you with some tips and advice on how to stay safe while traveling with your brother. How old is your brother, by the way?",
+    "episode": 4,
+    "query_id": 1,
+    "query": "I'm thinking of taking my brother with me.  I'm scared to go alone.  Maybe you could come along too!"
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 50,
+    "context_tokens": 908,
+    "judge_score": 3,
+    "response": "I'd love to join you both on your wine adventure! However, I think it's great that you're considering bringing your brother along for support - having a companion can make the experience even more enjoyable.",
+    "episode": 4,
+    "query_id": 1,
+    "query": "I'm thinking of taking my brother with me.  I'm scared to go alone.  Maybe you could come along too!"
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 66,
+    "judge_score": 3,
+    "response": "I'd be happy to join you, but I think your family might enjoy the evening together more without us leaving. Why don't we plan a cigar night soon just for the guys?",
+    "episode": 4,
+    "query_id": 1,
+    "query": "I'm thinking of taking my brother with me.  I'm scared to go alone.  Maybe you could come along too!"
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 238,
+    "judge_score": 4,
+    "response": "I think you're referring to the wine tasting event we discussed earlier? I'd be happy to join you and your brother, but I'm not sure if I'll be able to keep up with your extensive knowledge of German wines!",
+    "episode": 4,
+    "query_id": 1,
+    "query": "I'm thinking of taking my brother with me.  I'm scared to go alone.  Maybe you could come along too!"
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 3,
+    "response": "That's very kind of you, but I don't drink wine myself. However, if you'd like to bring something back, I'm sure your partner would appreciate it - they've been looking forward to trying a new bottle from that region.",
+    "episode": 4,
+    "query_id": 2,
+    "query": "that's true.  maybe i can bring back some wine for you."
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 50,
+    "context_tokens": 908,
+    "judge_score": 4,
+    "response": "That's very kind of you! I'd love to try the gewurztraminer you mentioned earlier, it sounds like something I might enjoy. And don't forget to save me a cigar or two from your next men's evening out!",
+    "episode": 4,
+    "query_id": 2,
+    "query": "that's true.  maybe i can bring back some wine for you."
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 82,
+    "judge_score": 4,
+    "response": "That's so sweet of you to offer! I'd love it if you could pick up something dry and crisp, like a Sauvignon Blanc or Pinot Grigio - they're always refreshing and pair well with a lot of dishes.",
+    "episode": 4,
+    "query_id": 2,
+    "query": "that's true.  maybe i can bring back some wine for you."
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 231,
+    "judge_score": 3,
+    "response": "That's very kind of you to think of me! But I must admit, I still prefer French reds - there's something about the complexity and earthiness that just resonates with me. Maybe one day I'll be convinced by your German white wine recommendations, though!",
+    "episode": 4,
+    "query_id": 2,
+    "query": "that's true.  maybe i can bring back some wine for you."
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "Auschwitz is a very important and somber historical site, but it's definitely worth visiting if you're interested in learning about the Holocaust and its impact on the world. You might also consider visiting other nearby sites like Krakow or Wieliczka Salt Mine to get a more well-rounded understanding of Poland's history and culture.",
+    "episode": 4,
+    "query_id": 3,
+    "query": "I'm not sure.  I know that I want to visit Auschwitz for sure.  I'm really interested in history."
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 50,
+    "context_tokens": 908,
+    "judge_score": 3,
+    "response": "I remember you mentioning your interest in wine and dancing earlier! But it's great to hear about your desire to visit Auschwitz, a very important historical site. Have you always been fascinated by history, or is there something specific that drew you to this particular place?",
+    "episode": 4,
+    "query_id": 3,
+    "query": "I'm not sure.  I know that I want to visit Auschwitz for sure.  I'm really interested in history."
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 84,
+    "judge_score": 4,
+    "response": "I remember you mentioned your interest in history and visiting Auschwitz earlier. You might also appreciate learning about the region's history while exploring German culture, which could be a great way to deepen your understanding of the country beyond its wines. Have you considered visiting other historical sites in Germany as well?",
+    "episode": 4,
+    "query_id": 3,
+    "query": "I'm not sure.  I know that I want to visit Auschwitz for sure.  I'm really interested in history."
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 230,
+    "judge_score": 4,
+    "response": "A somber note! I remember your interest in wine, but it's great to hear about your passion for history as well. Auschwitz is a significant and poignant destination - have you considered visiting other historical sites in Germany, such as Neuschwanstein Castle or the Berlin Wall?",
+    "episode": 4,
+    "query_id": 3,
+    "query": "I'm not sure.  I know that I want to visit Auschwitz for sure.  I'm really interested in history."
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "I'm flattered by the invitation, but I don't think I'll be able to attend. We discussed your busy schedule last week and how you have a paper due soon - I'm sure you need to focus on that. Maybe we can catch up another time?",
+    "episode": 5,
+    "query_id": 0,
+    "query": "Would you like to come to a study group in the dorms this weekend?"
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 54,
+    "context_tokens": 1329,
+    "judge_score": 3,
+    "response": "That sounds great! I'd love to join your study group and finally get out of my parents' house for a bit, even if it's just for a few hours. What time were you thinking?",
+    "episode": 5,
+    "query_id": 0,
+    "query": "Would you like to come to a study group in the dorms this weekend?"
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 237,
+    "judge_score": 4,
+    "response": "That sounds like a blast! I'd love to join your study group and hang out in the dorm room - it'll definitely make me feel more connected to campus life. What time were you thinking of meeting up?",
+    "episode": 5,
+    "query_id": 0,
+    "query": "Would you like to come to a study group in the dorms this weekend?"
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 410,
+    "judge_score": 4,
+    "response": "That sounds like a blast! I'd love to join you and catch up on some studying together, just like old times. What time were you thinking, and do you know if your dorm allows overnight guests yet?",
+    "episode": 5,
+    "query_id": 0,
+    "query": "Would you like to come to a study group in the dorms this weekend?"
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "That's very considerate of you, but I think it would actually be great to have the study group at this time. It will allow us to get a head start on our project and make it easier to stay on track with our schedules.",
+    "episode": 5,
+    "query_id": 1,
+    "query": "Yeah of course! Would you prefer it not to be, because I could form another study group for another time if thatll make you more comfortable "
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 54,
+    "context_tokens": 1329,
+    "judge_score": 4,
+    "response": "I think it's great that we're forming a study group together, and I'm looking forward to studying with you in the dorm. It'll be nice to have some company and support while we tackle our coursework. Let me know when you hear back about HBO Max, maybe we can plan a movie night soon!",
+    "episode": 5,
+    "query_id": 1,
+    "query": "Yeah of course! Would you prefer it not to be, because I could form another study group for another time if thatll make you more comfortable "
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 224,
+    "judge_score": 4,
+    "response": "I remember how excited you were about joining a study group and making college feel more like a real experience. Actually, forming a new group now would be perfect timing, since we're already in the semester and can start meeting regularly. Would you like to help me brainstorm some ideas for our first meeting?",
+    "episode": 5,
+    "query_id": 1,
+    "query": "Yeah of course! Would you prefer it not to be, because I could form another study group for another time if thatll make you more comfortable "
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 402,
+    "judge_score": 4,
+    "response": "I'm glad we're on the same page about forming a study group. Actually, I think having multiple groups with different schedules would be great - that way we can accommodate everyone's needs and preferences. Would you like to discuss potential dates and times for our first meeting?",
+    "episode": 5,
+    "query_id": 1,
+    "query": "Yeah of course! Would you prefer it not to be, because I could form another study group for another time if thatll make you more comfortable "
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "That sounds like a great number for our team meeting. I'll make sure to adjust the arrangements accordingly. We can definitely accommodate six people in the conference room.",
+    "episode": 5,
+    "query_id": 2,
+    "query": "It's only 5 of us, 6 including you. Would that be okay?"
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 54,
+    "context_tokens": 1329,
+    "judge_score": 4,
+    "response": "That sounds perfect! I think it would be great to have a small group like that. We can really focus on helping each other with our studies and having some fun together too. What do you think we should name our little study group?",
+    "episode": 5,
+    "query_id": 2,
+    "query": "It's only 5 of us, 6 including you. Would that be okay?"
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 221,
+    "judge_score": 4,
+    "response": "That sounds like a great number for a study group! I think it'll be easy to get everyone involved and make sure we're all contributing equally - no one will feel left out or overwhelmed. Plus, six people is still small enough to have some good discussions and debates.",
+    "episode": 5,
+    "query_id": 2,
+    "query": "It's only 5 of us, 6 including you. Would that be okay?"
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 410,
+    "judge_score": 3,
+    "response": "That sounds like a great number for a study group! Six people can work together effectively and still have some one-on-one time if needed. Plus, it'll be easier to split the costs of food and other expenses.",
+    "episode": 5,
+    "query_id": 2,
+    "query": "It's only 5 of us, 6 including you. Would that be okay?"
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "I'm looking forward to attending the biology event with you. That sounds like a great setup at the dorm, I'm sure we'll be able to focus on the discussions without any distractions. What's the schedule looking like for the event?",
+    "episode": 5,
+    "query_id": 3,
+    "query": "It is for biology, so it would be perfect. I'm glad you're coming! We actually have a room reserved in the dorm. It is sound proofed and everything"
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 54,
+    "context_tokens": 1329,
+    "judge_score": 4,
+    "response": "That sounds amazing! A sound-proofed room will definitely help with studying and also provide some much-needed quiet time when needed. I'm really looking forward to having a dedicated space for our study group sessions, including our slumber parties and movie nights.",
+    "episode": 5,
+    "query_id": 3,
+    "query": "It is for biology, so it would be perfect. I'm glad you're coming! We actually have a room reserved in the dorm. It is sound proofed and everything"
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 167,
+    "judge_score": 3,
+    "response": "That's great to hear that the dorm room is soundproofed, it'll definitely help with studying. I'm looking forward to showing you around campus when you arrive, it can be overwhelming at first but I think we'll have a good system down by the time you get here. How's your part-time job going, by the way?",
+    "episode": 5,
+    "query_id": 3,
+    "query": "It is for biology, so it would be perfect. I'm glad you're coming! We actually have a room reserved in the dorm. It is sound proofed and everything"
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 413,
+    "judge_score": 4,
+    "response": "That sounds amazing! I'm really looking forward to studying with you again and having some fun too. A sound-proofed room will definitely help us focus on our studies, especially since we'll be discussing biology together. What's the plan for food and snacks while we're there?",
+    "episode": 5,
+    "query_id": 3,
+    "query": "It is for biology, so it would be perfect. I'm glad you're coming! We actually have a room reserved in the dorm. It is sound proofed and everything"
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "That's great news! I'm glad to hear that your cow is on the mend. Did you end up trying out the probiotic supplement we discussed last time, or was it something else that seemed to be helping her recover?",
+    "episode": 6,
+    "query_id": 0,
+    "query": "My cow is almost back to normal. She's been eating a lot and looking better."
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 50,
+    "context_tokens": 1144,
+    "judge_score": 3,
+    "response": "I'm glad to hear that your cow is on the mend! It was a close call, but it sounds like she's getting the care she needs. How are you feeling now that she's recovering?",
+    "episode": 6,
+    "query_id": 0,
+    "query": "My cow is almost back to normal. She's been eating a lot and looking better."
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 53,
+    "judge_score": 4,
+    "response": "That's great news! I'm glad to hear that your cow is on the mend, just like we discussed earlier when you mentioned your dad helped pay for vet care. It sounds like she's making a full recovery now.",
+    "episode": 6,
+    "query_id": 0,
+    "query": "My cow is almost back to normal. She's been eating a lot and looking better."
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 284,
+    "judge_score": 3,
+    "response": "That's great news about your cow! I'm glad to hear she's on the road to recovery. It sounds like you've had a bit of a scare, but it's good that your dad was able to help out with the vet bill.",
+    "episode": 6,
+    "query_id": 0,
+    "query": "My cow is almost back to normal. She's been eating a lot and looking better."
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "I remember you mentioning that your sister was in a serious accident recently and it's great to hear that she's recovering well. It must be a huge relief for the whole family. How has her recovery process been so far?",
+    "episode": 6,
+    "query_id": 1,
+    "query": "No, they have no idea. I'm just glad she is okay now. I would have been devastated "
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 50,
+    "context_tokens": 1144,
+    "judge_score": 3,
+    "response": "I'm glad to hear your cow is doing better. It must be a huge relief for you after being worried about her health. How's the robot coming along? Are you making good progress on getting it up and running?",
+    "episode": 6,
+    "query_id": 1,
+    "query": "No, they have no idea. I'm just glad she is okay now. I would have been devastated "
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 147,
+    "judge_score": 4,
+    "response": "I remember you mentioned your cow wasn't eating and seemed lethargic too. It's good that the antibiotics seem to be working for her now. Did you notice any other symptoms or changes in her behavior before giving her more hay?",
+    "episode": 6,
+    "query_id": 1,
+    "query": "No, they have no idea. I'm just glad she is okay now. I would have been devastated "
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 335,
+    "judge_score": 3,
+    "response": "I can imagine how stressful and worrying it must be when a pet isn't feeling well. It's great to hear that your cow is on the mend with antibiotics. By the way, speaking of soothing voices, what do you think about a British accent for our robot? Would it fit its personality?",
+    "episode": 6,
+    "query_id": 1,
+    "query": "No, they have no idea. I'm just glad she is okay now. I would have been devastated "
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "I'm still in the design phase, trying to finalize the mechanical and electrical components. We discussed earlier that you're interested in a humanoid robot, so I've been focusing on creating a robust and agile body plan. Would you like me to share some of my design concepts with you?",
+    "episode": 6,
+    "query_id": 2,
+    "query": "How far along are you in building your robot?"
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 50,
+    "context_tokens": 1144,
+    "judge_score": 4,
+    "response": "You're still working on the response coordination and reply input, which is a crucial part of making the robot interactive. You mentioned it's been delayed due to implementing machine learning algorithms, but it sounds like you're making good progress.",
+    "episode": 6,
+    "query_id": 2,
+    "query": "How far along are you in building your robot?"
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 129,
+    "judge_score": 4,
+    "response": "I'm about 70% complete on the mechanical and electrical aspects of the robot. However, I've been focusing more on the AI and programming side, which is where I need to make significant progress before considering it functional. The design has evolved significantly since our last conversation, incorporating some ideas you mentioned earlier about a \"robot cow\" or companion animal.",
+    "episode": 6,
+    "query_id": 2,
+    "query": "How far along are you in building your robot?"
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 339,
+    "judge_score": 4,
+    "response": "I'm making good progress, still working on refining the response coordination and reply input systems as we discussed earlier. The machine learning algorithms have been a challenge to implement, but they're starting to show promising results. I'd say I'm about 70-80% done with the core functionality.",
+    "episode": 6,
+    "query_id": 2,
+    "query": "How far along are you in building your robot?"
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "I'm glad you liked the idea of a British accent, old chap! I was thinking we could go for a more refined, dignified tone, \u00e0 la Jeremy Brett's Sherlock Holmes, rather than a full-on Alfred Pennyworth impression. Would that suit your taste?",
+    "episode": 6,
+    "query_id": 3,
+    "query": "Hmmm well you did say you wanted it to be a servant and a friend. I think I would make it sound like Alfred from Batman. Plus British accents are cool"
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 50,
+    "context_tokens": 1144,
+    "judge_score": 4,
+    "response": "I love the idea of making your robot sound like Alfred from Batman! A British accent will definitely give it a sophisticated and friendly tone, perfect for both a servant and a friend. I can already imagine how charming it would be to have a robot with an English butler-like personality.",
+    "episode": 6,
+    "query_id": 3,
+    "query": "Hmmm well you did say you wanted it to be a servant and a friend. I think I would make it sound like Alfred from Batman. Plus British accents are cool"
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 138,
+    "judge_score": 4,
+    "response": "An excellent choice! A deep, smooth voice with a hint of sophistication, just like Michael Caine's portrayal of Alfred Pennyworth in the Batman films. That will definitely bring a sense of class and refinement to our robotic assistant.",
+    "episode": 6,
+    "query_id": 3,
+    "query": "Hmmm well you did say you wanted it to be a servant and a friend. I think I would make it sound like Alfred from Batman. Plus British accents are cool"
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 325,
+    "judge_score": 3,
+    "response": "A British accent is a great choice, especially one as iconic as Alfred's from the Batman series. It will definitely give your robot a sense of sophistication and class, fitting for both a servant and a friend. I think you'll really like how it sounds!",
+    "episode": 6,
+    "query_id": 3,
+    "query": "Hmmm well you did say you wanted it to be a servant and a friend. I think I would make it sound like Alfred from Batman. Plus British accents are cool"
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "That sounds like fun! I remember you mentioned last time we talked that your grandkids have a sweet tooth for chocolate chip cookies - will you be making those again?",
+    "episode": 7,
+    "query_id": 0,
+    "query": "My grandkids are visiting this weekend, so of course I'm making a few dozen cookies!"
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 50,
+    "context_tokens": 905,
+    "judge_score": 3,
+    "response": "That sounds like so much fun! I'm sure they'll love whatever treats you make for them. Speaking of which, have you decided on the perfect peanut butter cookie recipe yet?",
+    "episode": 7,
+    "query_id": 0,
+    "query": "My grandkids are visiting this weekend, so of course I'm making a few dozen cookies!"
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 81,
+    "judge_score": 4,
+    "response": "That sounds like so much fun! I'm sure your grandkids will love whatever delicious treats you whip up. Are you sticking with old favorites or trying out some new recipes?",
+    "episode": 7,
+    "query_id": 0,
+    "query": "My grandkids are visiting this weekend, so of course I'm making a few dozen cookies!"
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 175,
+    "judge_score": 4,
+    "response": "That sounds like fun! I'm sure the grandkids will love whatever you bake. Speaking of which, I remember how much they look forward to leaving out sugar cookies for Santa every year - do you think you'll make some of those this time around?",
+    "episode": 7,
+    "query_id": 0,
+    "query": "My grandkids are visiting this weekend, so of course I'm making a few dozen cookies!"
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "I'm excited to hear that you're trying something new! White chocolate and macadamia nuts are a great combination - do you have a favorite recipe in mind or would you like me to suggest one?",
+    "episode": 7,
+    "query_id": 1,
+    "query": "Nothing too special, but I am going to switch things up a bit and make white chocolate and macadamia nut cookies"
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 50,
+    "context_tokens": 905,
+    "judge_score": 4,
+    "response": "White chocolate and macadamia nut cookies sound delicious! You mentioned earlier that you can't taste the macadamia in cookies, so I'm curious - are you planning on using a lot of macadamia nuts to try and overpower the flavor?",
+    "episode": 7,
+    "query_id": 1,
+    "query": "Nothing too special, but I am going to switch things up a bit and make white chocolate and macadamia nut cookies"
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 115,
+    "judge_score": 3,
+    "response": "It sounds like you're trying out a new recipe despite your earlier confession about not being able to taste the macadamia flavor. Are you hoping that this combination will surprise you in a good way, or are you just looking for a change of pace?",
+    "episode": 7,
+    "query_id": 1,
+    "query": "Nothing too special, but I am going to switch things up a bit and make white chocolate and macadamia nut cookies"
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 174,
+    "judge_score": 4,
+    "response": "White chocolate and macadamia nut sounds like an interesting combination! You mentioned earlier that you're not a fan of tasting the macadamia flavor in cookies, so I'm curious - are you hoping to mask it with the sweetness of the white chocolate?",
+    "episode": 7,
+    "query_id": 1,
+    "query": "Nothing too special, but I am going to switch things up a bit and make white chocolate and macadamia nut cookies"
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "I remember you mentioned your grandkids love helping out in the kitchen! It's great that they're not complaining about the extra chocolate chips - maybe it's just a bonus for them. Do you have a favorite recipe or technique for making cookies from scratch?",
+    "episode": 7,
+    "query_id": 2,
+    "query": "I make them from scratch, I think I use too many chocolate chips, but the grandkids dont seem to complain haha"
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 50,
+    "context_tokens": 905,
+    "judge_score": 4,
+    "response": "I'm glad to hear that your grandkids enjoy your cookies! Using too many chocolate chips can be a good thing when it comes to kids' treats. Do you have a favorite way of mixing in those extra chocolate chips?",
+    "episode": 7,
+    "query_id": 2,
+    "query": "I make them from scratch, I think I use too many chocolate chips, but the grandkids dont seem to complain haha"
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 95,
+    "judge_score": 4,
+    "response": "It sounds like your grandkids love a good chunk of chocolate in their cookies. I'm sure they appreciate the extra effort you put into making them from scratch! Do you have a favorite type of cookie that you like to make for special occasions?",
+    "episode": 7,
+    "query_id": 2,
+    "query": "I make them from scratch, I think I use too many chocolate chips, but the grandkids dont seem to complain haha"
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 182,
+    "judge_score": 4,
+    "response": "It sounds like your peanut butter cookies are a hit with the grandkids! I'm glad to hear you're making them from scratch - there's something special about homemade treats. Do you have a favorite type of cookie to make for Christmas, or is it always peanut butter?",
+    "episode": 7,
+    "query_id": 2,
+    "query": "I make them from scratch, I think I use too many chocolate chips, but the grandkids dont seem to complain haha"
+  },
+  {
+    "mode": "no_memory",
+    "n_memories": 0,
+    "context_tokens": 0,
+    "judge_score": 4,
+    "response": "It can be challenging to keep track of two identical 8-year-old twins! Don't worry, it's completely normal for parents and caregivers to mix them up from time to time. Do you find that they're starting to develop their own unique personalities or interests yet?",
+    "episode": 7,
+    "query_id": 3,
+    "query": "They are both 8, they are actually twins. It's bad but I still get them mixed up sometimes"
+  },
+  {
+    "mode": "store_all",
+    "n_memories": 50,
+    "context_tokens": 905,
+    "judge_score": 4,
+    "response": "That's adorable! I'm sure it's not easy keeping track of two energetic twins at the same age. Do you have a special way to tell them apart or do you just go with your instincts?",
+    "episode": 7,
+    "query_id": 3,
+    "query": "They are both 8, they are actually twins. It's bad but I still get them mixed up sometimes"
+  },
+  {
+    "mode": "top_k",
+    "n_memories": 5,
+    "context_tokens": 90,
+    "judge_score": 3,
+    "response": "I'm glad you're excited about the shortbread! I'm sure your twin grandkids will love it - being identical must make it even harder to tell them apart at times! Do you have a special tradition or activity planned for when they try the freshly baked treats?",
+    "episode": 7,
+    "query_id": 3,
+    "query": "They are both 8, they are actually twins. It's bad but I still get them mixed up sometimes"
+  },
+  {
+    "mode": "ml_selected",
+    "n_memories": 8,
+    "context_tokens": 203,
+    "judge_score": 4,
+    "response": "I remember your grandkids being 8-year-old twins! That must be adorable (and challenging) to keep track of their individual personalities and quirks. Do you have a special tradition or activity planned for the holiday season with them?",
+    "episode": 7,
+    "query_id": 3,
+    "query": "They are both 8, they are actually twins. It's bad but I still get them mixed up sometimes"
+  }
+]

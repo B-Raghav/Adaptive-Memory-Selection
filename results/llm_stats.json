@@ -1,0 +1,36 @@
+{
+  "n_queries": 32,
+  "friedman_chi2": 1.875,
+  "friedman_pvalue": 0.5987516330675617,
+  "significant_at_0.05": false,
+  "per_mode": {
+    "no_memory": {
+      "mean": 3.78125,
+      "ci95": [
+        3.594,
+        3.938
+      ]
+    },
+    "top_k": {
+      "mean": 3.8125,
+      "ci95": [
+        3.656,
+        3.938
+      ]
+    },
+    "ml_selected": {
+      "mean": 3.71875,
+      "ci95": [
+        3.562,
+        3.875
+      ]
+    },
+    "store_all": {
+      "mean": 3.6875,
+      "ci95": [
+        3.531,
+        3.844
+      ]
+    }
+  }
+}

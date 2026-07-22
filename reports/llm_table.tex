@@ -1,0 +1,20 @@
+\begin{table}[t]
+\centering\small
+\caption{Four-condition LLM comparison over 32 queries (Llama\,3.1 8B answers; judged 1--5 by an independent model). Judge
+scores are a statistical tie across all regimes. ML-selection is far cheaper than
+store-all, but costs more than top-$K$ for no measurable quality gain; its
+distinguishing behaviour is adapting the memory count per query rather than a fixed
+$K$. Quality parity here means the classification metrics, not this demo, carry the
+thesis.}
+\label{tab:llm}
+\begin{tabular}{lccc}
+\toprule
+Memory regime & Avg.\ memories & Avg.\ context tokens & Avg.\ judge (1--5) \\
+\midrule
+No memory & 0.0 & 0 & 3.78 \\
+Top-$K$ similarity & 5.0 & 123 & 3.81 \\
+Store-all & 51.0 & 1063 & 3.69 \\
+\textbf{ML-selected (ours)} & 7.9 & \textbf{281} & 3.72 \\
+\bottomrule
+\end{tabular}
+\end{table}

@@ -1,0 +1,121 @@
+memory_id,text,label_retain,trigger,persona_worthy,persona_text
+7168,I am not fond of her. I think I'd have escaped.,0,none,False,
+5464,"So, have you seen any good documentaries lately? I have a Netflix subscription that I watch sometimes in the middle of a trip.",0,none,True,I watch documentaries on Netflix.
+5809,You can! That would be fun. How old are you little doggy?,0,none,False,
+16100,yes once at a bbq place in nashville,0,none,True,I had smoked brisket once at a bbq.
+14950,"My fiancee made me chicken tacos the other night and they were delicious. Great idea, thank you. ",1,paraphrase,True,I'm engaged.
+12072,I hope they play it at the cafe! That would be such an experience to hear it together and sing along. I think it would be a very special moment.,0,none,False,
+6027, that sounds wonderful did you take your dog with you ,0,none,False,
+6647,"Do you care which colors I get?  Oh, also, how big are they?  I need to know what size cage to get for them.  ",0,none,True,I'm getting two bunnies.
+313,No she likes lies and cheating. Lol,0,none,True,My mom lies and cheats. My mom does not like Mexican food or fast cars.
+4548,No she likes lies and cheating. Lol,0,none,True,My mom lies and cheats. My mom does not like Mexican food or fast cars.
+15952,"Haha, I bet! I wonder if cats can perceive these things. Or maybe identity is too complex--perhaps it's an exclusively human characteristic. ",0,none,False,
+3999,Hi! I am thinking where to go next. I am traveling.,0,none,True,I travel.
+12026,"Nah, they enjoy sports and videogames.  Shocking right??",1,content,True,My sons enjoy sports and video games.
+1002,Yes I am a woman. I used to raise wild frogs.,0,none,True,I am female.
+3063,"Well considering I do not know you? No, but I am too",0,none,True,I am super high maintenance.
+4237,"It was, but it made us strong.",0,none,False,
+6857,Do you drink or do drugs?,0,none,False,
+11019,What made you want to retire ? Your Twitch fan will miss you.,1,named,False,
+17470,"It's the only one I regularly commit to every year. I do a few other marathons here and there, but the LA one is the only one I've repeated. Have you ever considered training for a marathon?",0,none,True,I run the LA marathon every year.
+2814,I know but I just can't help loving what I love. That sounds like a lot of fun! I'd love to be a part of it!,0,none,False,
+1441,I've heard it is best to learn when you are little.,0,none,False,
+13687,I'm available this weekend if that works for you?,0,none,False,
+12807,Where do you want to go to college?,0,none,False,
+3411,"It wasn't too bad, about $750, and in moderately good condition. What do you play at recess? I hope kids still like to play outside and not just be on screens. I had so much fun at recess when I was in 3rd grade.",0,none,True,I liked recess when I was in third grade.
+6369,"Ooh nice, yeah I bet that'll be awesome. The view must be incredible. I'd love to get to go to the grand canyon one day, have you ever been?",0,none,True,I have never been to the grand canyon.
+2699,I see.. I definitely won't whistle at them. How is your cat doing?,0,none,True,I wont whistle at girls to get them.
+5005,I always find it relaxing to go out at the end of the stressful week and just dance it out.  Let me know when you are ready to join me! Are you thinking of finding a job?,0,none,True,I like going clubbing to dance.
+9090,We listen to a lot of underground rap. Not too popular in our rural farm community.,0,none,True,I listen to underground rap. I live in a rural area.
+10755,"That's great, I spent ten years in human services.",0,none,True,I worked 10 years in human services.
+450,I like them too. Dream on is one of my favorites,0,none,True,"Aerosmith's ""Dream on"" is one of my favorite songs."
+12537,I don't have them on the farm. I've seen them in the city though.,0,none,False,
+14488,"I do, it is one of my hobbies. What do you do for fun?",0,none,True,I play chess as my hobby.
+7391,Oh man I hope you get some soon! Speaking of books and reading I was at the library today scoping out the local male talent and guess what? I saw my sister making out with a librarian in the back stacks!,0,none,True,I have a sister. I went to the library today.
+12102,"No, she is very desperate that I stay in India because I'm her only son and she depends on me. Also, she is afraid I will face discrimination as a foreigner in America.",1,named,True,My mom is afraid of discrimination in America. I am from India.
+101,I just wanted something different at the moment! Would you ever consider dying your hair?,0,none,True,I dyed my hair purple to be different.
+11097,"Welp, I can't argue with that choice. My F150 has been going strong for years. Are you going to pull horse trailers with it?",0,none,True,I have  F150.
+9328,Animals are better friends than humans.,0,none,False,
+7007,"It started out small but the list keeps growing with all of the aunts, cousins, friends, etc. I also haven't decided if I will invite all of the men in the family as well, or just keep it traditional with the women. Right now I am close to 50 people.",1,content,True,I'm trying to decide if I want the shower to be women only or invite the men in the family too.
+4278,I think it is luck I drink wine. I don't watch what I eat. I just try and enjoy life especially at my age.,0,none,True,I am not a picky eater. I drink wine.
+5094,"Wonderful, I hope there are no scorpions there, they scare me!",0,none,True,I'm scared of scorpions.
+7887,That's cool what do you do?,0,none,False,
+17210,I'm sure you'll have a great time. Are you planning on visiting New York anytime soon?,0,none,False,
+8191,That sounds great is that something you learned from you trips,0,none,False,
+8883,Sounds like a party. Have you ever tried a similar pool party for your kids? Just turining the pool into one big bubble bath to swim in?,0,none,False,
+8280,I have been blessed to have parents that supported me. Sports helped me with scholarships for college. My parents were more interested in my education then me working.,0,none,True,I have always had support for my education from my parents. I had sports scholarships in college.
+14778,Hmmmm… it really all depends. I guess I would say a mutt. A rescue animal that no one else would think twice about adopting. That way you know that only you are capable of being the mutt’s owner. ,1,content,True,I am an advocate for adopting animals.
+5001,"Yes! I am actually working at the lab doing research but this job has huge opportunities for getting skills and promotion.  But just looking at how much I owe gives me anxiety.  But guess what, one little step at the time, right? How is your husband doing?",1,content,True,I work in a research lab. I have a chemistry degree.
+14585,Awesome. I'm cooking some burgers on the grill. Cheeseburgers are my fave,0,none,True,I like cheeseburgers and I like cooking.
+9690,I've honestly never done it. I suppose I'm trying to earn my father's love by taking it over.,0,none,True,I suppose I'm trying to earn my father's love by taking  our family bussiness.
+2726,"I have two brands of shoes that I tend to prefer. Jack Wolfskin and Oboz for their trail running shoes. They're a cross between a hiking boot and a running shoe. Super comfortable, waterproof, and durable.",0,none,True,I prefer Jack Wolfskin and Oboz brands of shoes.
+2298,"No injuries, just low grade property damage. You should definitely go to college, it was awesome.",0,none,False,
+17119,"Well, I have been eating burgers made with lean turkey meat with avocado, lettuce, tomato and a mushroom bun. I also stopped eating fries. Which is depressing. Have you ever tried a mushroom bun?",0,none,True,"I have stopped eating fries. I have been eating burgers made with lean turkey meat with avocado, lettuce, tomato and a mushroom bun."
+13582,I have never heard of that game do you know what it about? Maybe it would be a good game to try at the game party I am hosting.,0,none,True,I am hosting a party soon. I have never heard of Stardew Valley.
+4438,"I haven't been listening to them lately, but I'd love to hear you play some.  Do you learn by reading sheet music or tabs, or can you play by ear?",1,content,False,
+9477,"When I make it big one day, I'll buy the car of my dreams",0,none,False,
+17004,Great! I'm excited. When are you free? ,0,none,False,
+11600,She does not do the style of dance I would like to do. I want to be a ballerina. What style of dance do you do?,0,none,True,I have a mother who is a dancer.
+11687,"Haha, good to know! There is a lot more competition now, loads of people have started up dog walking business' near me. ",1,content,True,I am a dog walker.
+4580,I thank him for his service.,0,none,False,
+15987,"Oh, guess it wasnt that great if you cant remember?",0,none,False,
+7136,Sure. I am building one to be my body double. Is that not fun?,0,none,True,"I am building robot, which will be my body double."
+8829,"I am in final year and will pass out next year, so what kind of dogs you have?",0,none,True,I am in my final year of college. I will pass out next year.
+17065,"I usually keep them outside, they like to run around and chase birds at the park also.",0,none,True,I have multiple outdoor cats.
+744,I am doing well. Where is it raining?,0,none,False,
+13179,"I enjoy light, casual reading. If the book was made into a movie - even better. I don't really have a ton of time to read though. If I have a few minutes of free time, I'm usuallty on my bike on the trail.",0,none,True,I am busy. I like books that were made into movies. I like to ride my bike on trails.
+15844,"I am excited but also nervous about it. I do not want to give up my career but I believe it is important for at least one parent be home to raise a child. My husband, being a detective, is very demanding and his hours are crazy. He does not want to stop working so I would be the one to stay home. DId you stay home when your son was a baby?",0,none,True,I am married to a detective. I have a career.
+621,Not really. The clubs just haven't been the same recently. I would like them to come back but it's been tough.,0,none,True,I like clubbing. I think clubs are not as good now.
+16349,"Can you join a kickball team without being in school? I play kickball, but I play at school. Do you play basketball?",0,none,True,I play kickball.
+10509,I just found a really good survival hike competition it is for partners would you be interested in joining me my treat?,0,none,True,I am going to participate in a survival hiking competition.
+10157,I would like to change my wardrobe. I haven't bought new clothes in about 15 years. ,0,none,True,I want to buy new clothes. I haven't bought clothes in 15 years.
+16838,I was planning one for this weekend at a local state park.  It has some waterfalls that suppose to be amazing.  I am excited to go and spend some time on me.  A late birthday present for myself.,0,none,True,I am planning to go for a hike this weekend. It was just my birthday.
+12105,"Yeah the weather here is amazing, it's one of the best tings about Hawaii! Unless you decide to go way up near the top of the volcanos you'll never see snow either.",1,named,False,
+59,Yes I love mickey mouse such a cute little rat,0,none,True,I love Mickey Mouse. I have been to Disneyland.
+11900,I work in construction. I've been in that type of work since I was a teenager. I really like it but kind of wish I had gone into engineering. Do you like working in marketing?  That seems challenging to me!,0,none,True,I wish I had gone into engineering instead. I've been in construction since I was a teenager. I work in construction.
+3974,Lol well that is a good reason,0,none,False,
+15100,"Haha, you sound like a great kid.",0,none,False,
+1087,"No, you find your own dream.",0,none,False,
+4046,"There are a couple nearby that I go to once in a while; however, I really like to do the cooking myself.",0,none,True,"I sometimes go to Mexican restaurants, but I prefer to cook myself."
+14614,Dont try and over do it.  You dont want it to get worse or heal funny.  But yea you still have to stay active.,0,none,False,
+15126,That must have been very upsetting for you. Do you have a phone? Some of the newer ones take really good photos,0,none,True,I am an understanding person.
+9276,"I have a convertible volkswagen but that I love, its yellow!",0,none,True,A convertible volkswagen. I have a car.
+2948,It's not as bad as people say although there are parts I wouldn't visit alone at night. I'll need to give you and your sister the tour. ,1,content,True,I will need to give you and your sister a tour of NY.
+13780,About 5 years now. I didn't know you live in Oahu! When did you move there?,1,named,True,I've lived in Maui 5 years.
+2132,Not to bad getting there slowly but still have plenty of work to do until it will all be ready. Not your sort of thing though as your not into games.,0,none,True,I play video games. I build robots.
+10524,Also doesn't seem like you are playing with real money when you just click a button.,1,content,False,
+6266,How many animals you got and I am doing good,0,none,False,
+7245,It is alright. I'm more of a pop fan myself,0,none,True,I enjoy pop music.
+88,Do you like the holidays? I don't.,0,none,True,I don't like the holidays.
+11027,"It is getting long in the tooth. New games are more popular, it will only get les and less popular. I would choose indie games, like loop hero, they will attract more viewers. ",1,content,False,
+12736,"Yes, that's what I meant. Just the know-how and some questions about what they might be looking for me to include in my personal statement etc. Did you go to university?",0,none,False,
+15848,That is good. Did you build sheds while being home? I mean building sheds was not your career- at least I assume it wasn't. I can see myself getting into carpentry hobbies if I were home all the time raising a baby.  ,0,none,True,I'm interested in carpentry.
+6148,Ah. I love taking walks and taking pictures.,0,none,True,I like taking walks and taking pictures.
+123,I think it is luck I drink wine. I don't watch what I eat. I just try and enjoy life especially at my age.,0,none,True,I am not a picky eater. I drink wine.
+15228,"Interesting, do you think it's worth it?",0,none,False,
+103,"Well, I think you could still do something cool perhaps! Any ideas?",0,none,False,
+17041,Well we mainly try to get the awareness to the public for the safety of animals.,0,none,True,I am an animal rights worker.
+12387,No. I finished in 1995. What year are in?,0,none,True,I graduated in 1995.
+8757,How many bike races have you won?,0,none,False,
+4785,Haha! I like to listen to garth brookes when I am rock climbing at the gym!,0,none,True,I like Garth Brooks when I rock climb.
+13658,I'm doing great! I'm just building a model house,1,content,True,I am building a model house.
+7109,I do a minimum of 6 miles.  When it gets close to a race I do more.  But you can start with just 1 mile.  The important thing is just starting.  I think you would enjoy it.  ,1,content,True,I run more miles the closer it gets to a race. I run at least six miles a day.
+3221,"I am sure. Running seems fun, but difficult when you are trying to train for longer distances. Is there any recommended training I should be doing to prepare myself.",0,none,False,
+12864,"That's nice, I hope you stick to it. It can be really good for your health! My heart transplant is scheduled for next month, I'm very nervous.",0,none,True,I have a heart transplant schedule for next month.
+15480,"Sometimes waiting can be detrimental. However, this would be your decision to make. ",0,none,False,
+12787,"Yeah maybe. I could work with kids and help them not make the mistakes I made, you know?",0,none,True,I would like to help kids keep from making mistakes like myself.
+8727,"That would be great! I love fried catfish too, but it's not the most healthy.",0,none,True,I enjoy eating fried catfish.
+14273,What do you do? I'm work for a watch dealer.,0,none,True,I work for a watch dealer.
+7634,Hey now don't sell yourself short! You have that robot of yours! Tell me how is that going?,0,none,True,I have won a gold medal.
+5358,If I don’t get in maybe you could help me a little bit if you have the time. ,0,none,False,
+4745,I like them too. Dream on is one of my favorites,0,none,True,"Aerosmith's ""Dream on"" is one of my favorite songs."
+2319,Not really. I'm not too into country music. I prefer stuff from artists like the Beatles and Billy Joel.,1,content,True,I like the Beatles and Billy Joel. I don't care much for George Strait music from the 80s. I like older music. I'm not too into country music.
+169,I helped design starcraft. Do you have time to play games without the cow,1,content,True,I helped design the game Starcraft.
+9687,"As a customer, I love it. Their burgers are super fresh and made with high-quality meat and ingredients. I'm sure it's a drag to work there, but I've never worked in food service before.",1,content,True,I've never worked in food service before.
+2932,Yes they do! There are alot of job openings here.,0,none,False,
+635,Awesome! I make all as in school so I could help you!,0,none,False,
+6086,His name is Bob kind of a weird name for a horse.,0,none,True,My horse is called Bob.
+13150,Not at all. I don't drink any type of alcohol.,0,none,True,I'm teetotal.
+11449,I just today saw a hilarious post of dogs wearing fishnet stockings! have you ever dressed a dog up in a costume?,0,none,False,
+5999,Definitely! Although now that I am retired I find that I love eating cheeseburgers...,1,content,True,I love cheeseburgers.
+16290,How romantic!! That's a good first meeting story. My husband and I met at the dog park. Our golden labs used to play together and I always thought he was cute. He eventually asked me for my number and we hit it off!,1,content,True,I have a golden lab. I met my husband at a dog park. My husband has a golden lab.

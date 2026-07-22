@@ -1,0 +1,52 @@
+# Data (downloaded/generated — do not commit large files)
+data/raw/
+data/processed/
+*.parquet
+*.npy
+*.npz
+
+# Models
+models/*.pkl
+models/*.joblib
+
+# Regenerable evaluation bundle
+results/*.pkl
+
+# Node (only used to build slides.pptx)
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# LaTeX build artifacts
+reports/*.aux
+reports/*.log
+reports/*.out
+reports/*.toc
+reports/*.synctex.gz
+reports/*.fls
+reports/*.fdb_latexmk
+
+# Keep the figures and final PDF
+!reports/figures/
+!reports/report.pdf
+!results/*.csv
+
+# Presentation slides
+slides/
+
+# IDE / Agent config
+.claude/
+
+

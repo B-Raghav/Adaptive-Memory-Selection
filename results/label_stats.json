@@ -1,0 +1,18 @@
+{
+  "positive_rate": 0.15637229879190062,
+  "n": 17631,
+  "agreement_persona_worthy": 0.4401338551415121,
+  "cohen_kappa": 0.06109980048729624,
+  "p_retain_given_worthy": 0.1848307637781322,
+  "p_retain_given_not_worthy": 0.10575256107171001,
+  "odds_ratio": 1.9173141968509042,
+  "chi2": 191.93069081400301,
+  "chi2_pvalue": 1.204796951413385e-43,
+  "trigger_counts": {
+    "content": 1778,
+    "named": 558,
+    "paraphrase": 421
+  },
+  "tau_paraphrase": 0.6,
+  "min_content_overlap": 2
+}

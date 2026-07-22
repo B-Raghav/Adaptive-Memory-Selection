@@ -1,0 +1,6 @@
+model,cv_accuracy_mean,cv_accuracy_std,cv_precision_mean,cv_precision_std,cv_recall_mean,cv_recall_std,cv_f1_mean,cv_f1_std,cv_roc_auc_mean,cv_roc_auc_std,cv_average_precision_mean,cv_average_precision_std
+LogisticRegression,0.7068,0.0084,0.3048,0.0134,0.7077,0.0201,0.4257,0.0122,0.7774,0.0111,0.3904,0.0345
+kNN,0.6294,0.0125,0.2587,0.0117,0.7554,0.0188,0.3852,0.0134,0.7472,0.014,0.3406,0.0147
+DecisionTree,0.6546,0.0324,0.2652,0.0195,0.6939,0.0475,0.3822,0.0128,0.7232,0.0131,0.271,0.0091
+RandomForest,0.7631,0.0104,0.331,0.02,0.5284,0.0556,0.4057,0.022,0.7614,0.0154,0.35,0.0177
+AdaBoost,0.7407,0.0132,0.3209,0.0207,0.6125,0.0292,0.4206,0.0202,0.7668,0.0125,0.374,0.0119

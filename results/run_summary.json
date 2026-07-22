@@ -1,0 +1,20 @@
+{
+  "n_memories": 17631,
+  "n_episodes": 450,
+  "positive_rate": 0.15637229879190062,
+  "best_model": "LogisticRegression",
+  "test_metrics": {
+    "accuracy": 0.6956,
+    "precision": 0.3117,
+    "recall": 0.6891,
+    "f1": 0.4293,
+    "roc_auc": 0.767,
+    "pr_auc": 0.3964
+  },
+  "similarity_baseline": {
+    "f1": 0.3391959798994975,
+    "roc_auc": 0.6334318728329335,
+    "pr_auc": 0.28563649029605664,
+    "threshold": 0.2538133919239044
+  }
+}

@@ -1,0 +1,17 @@
+,mutual_information
+tfidf_mean,0.0531
+tfidf_max,0.0526
+persona_salience,0.045
+char_length,0.0349
+sentence_length,0.0304
+stopword_ratio,0.0256
+sim_to_current_query,0.0204
+has_proper_noun,0.0172
+recency_sessions,0.0159
+access_frequency,0.0114
+turns_since_recall,0.0109
+first_person_count,0.0104
+position_in_session,0.0081
+has_number,0.0002
+role_speaker1,0.0002
+is_question,0.0001

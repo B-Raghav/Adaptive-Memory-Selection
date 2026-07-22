@@ -1,0 +1,28 @@
+# Core scientific stack
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.4
+imbalanced-learn>=0.12
+scipy>=1.11
+
+# Embeddings
+sentence-transformers>=2.6
+torch>=2.0
+
+# Plotting
+matplotlib>=3.8
+seaborn>=0.13
+
+# I/O
+pyarrow>=15.0
+
+# Demo app
+streamlit>=1.30
+requests>=2.31
+
+# Networking / certs (for dataset download on macOS python.org builds)
+certifi>=2024.0
+
+# Notebooks
+jupyter>=1.0
+ipykernel>=6.0

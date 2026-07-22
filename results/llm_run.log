@@ -1,0 +1,153 @@
+=== Episode 0: 52 memories, 18 persona facts, 4 queries. Classifier: LogisticRegression
+  q0 no_memory    mems= 0 tok=   0 judge=3  I haven't had a chance to read Fatal Charm yet, but I'd be happy to di
+  q0 store_all    mems=52 tok=1304 judge=4  I've already finished reading Fatal Charm and I'd love to discuss it w
+  q0 top_k        mems= 5 tok= 125 judge=3  I'm glad you're interested in discussing The Butterfly Garden! As for 
+  q0 ml_selected  mems= 8 tok= 472 judge=3  I'm glad you're interested in discussing books with me! Unfortunately,
+  q1 no_memory    mems= 0 tok=   0 judge=4  I remember you were researching Randy Roth, also known as "The Wife Ki
+  q1 store_all    mems=52 tok=1304 judge=4  That sounds like a fascinating and disturbing topic! I can see why it 
+  q1 top_k        mems= 5 tok= 261 judge=4  That sounds familiar! You mentioned reading "Fatal Charm" earlier, whi
+  q1 ml_selected  mems= 8 tok= 472 judge=4  It sounds like we're on the same wavelength with true crime stories! I
+  q2 no_memory    mems= 0 tok=   0 judge=4  I'm glad you think so! I remember you mentioned earlier that you're a 
+  q2 store_all    mems=52 tok=1304 judge=3  I've been meaning to get into more Stephen King books, especially the 
+  q2 top_k        mems= 5 tok= 179 judge=4  I'm glad you're interested! I think you'll really enjoy the twists and
+  q2 ml_selected  mems= 8 tok= 472 judge=4  I'm glad you think so! I actually have Amazon Prime, which gives me ac
+  q3 no_memory    mems= 0 tok=   0 judge=4  It sounds like you were looking for a device that would offer a larger
+  q3 store_all    mems=52 tok=1304 judge=4  You're referring to your e-reader! You mentioned earlier that you have
+  q3 top_k        mems= 5 tok= 103 judge=4  It sounds like your new e-reader is serving its purpose well, providin
+  q3 ml_selected  mems= 8 tok= 460 judge=4  It sounds like you're happy with your Kindle, which is great since you
+
+=== Episode 1: 50 memories, 12 persona facts, 6 queries. Classifier: LogisticRegression
+  q0 no_memory    mems= 0 tok=   0 judge=4  Congratulations on your win! How did it feel to come out on top? Was t
+  q0 store_all    mems=50 tok= 844 judge=4  Congratulations are in order! I'm glad to hear that you had a successf
+  q0 top_k        mems= 5 tok=  87 judge=4  Congratulations on winning your fight! I remember you mentioned trying
+  q0 ml_selected  mems= 8 tok= 211 judge=4  That's amazing! Congratulations on your win! I'm glad to hear you're e
+  q1 no_memory    mems= 0 tok=   0 judge=4  I'm so glad to hear that your hard work is paying off! You've been put
+  q1 store_all    mems=50 tok= 844 judge=4  That's awesome to hear! Congratulations on your win today! I'm glad to
+  q1 top_k        mems= 5 tok= 118 judge=4  That's awesome to hear about your recent win! I'm glad to see all the 
+  q1 ml_selected  mems= 8 tok= 211 judge=4  That's awesome to hear! I'm glad to see you're taking the lessons from
+  q2 no_memory    mems= 0 tok=   0 judge=3  I'm glad to hear that everything turned out well! You were indeed on e
+  q2 store_all    mems=50 tok= 844 judge=4  You're a natural! I remember you mentioning that wrestling can be cath
+  q2 top_k        mems= 5 tok= 122 judge=4  I'm glad to hear that! You've been saying that staying focused and bei
+  q2 ml_selected  mems= 7 tok= 179 judge=4  I remember how much you value staying focused and present when tacklin
+  q3 no_memory    mems= 0 tok=   0 judge=4  That's great news! I remember you were hoping this fight would pay out
+  q3 store_all    mems=50 tok= 844 judge=3  That's a decent payday, but I'm guessing you're not exactly thrilled a
+  q3 top_k        mems= 5 tok= 124 judge=4  That's a nice payday for your first fight! You mentioned earlier that 
+  q3 ml_selected  mems= 7 tok= 182 judge=4  That's a nice payday! You mentioned earlier that you've been working o
+
+=== Episode 2: 50 memories, 11 persona facts, 6 queries. Classifier: LogisticRegression
+  q0 no_memory    mems= 0 tok=   0 judge=4  I've actually been considering that option, and I think it's a great i
+  q0 store_all    mems=50 tok=1031 judge=4  That's actually a great idea, I've been considering that route too! Co
+  q0 top_k        mems= 5 tok=  93 judge=4  I actually considered taking your advice and looked into community col
+  q0 ml_selected  mems= 8 tok= 161 judge=4  That's actually not a bad idea, considering your current financial sit
+  q1 no_memory    mems= 0 tok=   0 judge=4  That's a significant commitment you made to your education earlier in 
+  q1 store_all    mems=50 tok=1031 judge=4  It's great that you're thinking about furthering your education! Given
+  q1 top_k        mems= 5 tok= 106 judge=4  It sounds like you've already demonstrated your commitment to educatio
+  q1 ml_selected  mems= 8 tok= 169 judge=4  It sounds like you've already made significant sacrifices to balance w
+  q2 no_memory    mems= 0 tok=   0 judge=4  That's a great point, actually. I was thinking more along the lines of
+  q2 store_all    mems=50 tok=1031 judge=4  That's a great point! As someone who has worked in hospitals, you have
+  q2 top_k        mems= 5 tok= 104 judge=4  I see what you mean about the economics of healthcare! While it's not 
+  q2 ml_selected  mems= 8 tok= 170 judge=3  I see what you mean about the intersection of economics and healthcare
+  q3 no_memory    mems= 0 tok=   0 judge=4  That's a tough transition period you went through. I remember you ment
+  q3 store_all    mems=50 tok=1031 judge=4  I remember when you mentioned considering going back to school and fin
+  q3 top_k        mems= 5 tok= 124 judge=4  I remember you mentioning that your previous job was demanding and did
+  q3 ml_selected  mems= 8 tok= 208 judge=4  It sounds like you've been through a bit of a challenging time since q
+
+=== Episode 3: 52 memories, 16 persona facts, 6 queries. Classifier: LogisticRegression
+  q0 no_memory    mems= 0 tok=   0 judge=4  That's great to hear! It's wonderful that you're finding ways to give 
+  q0 store_all    mems=52 tok=1038 judge=4  That's wonderful to hear! I'm so glad to see you're feeling more posit
+  q0 top_k        mems= 5 tok= 118 judge=4  That's wonderful to hear! It sounds like getting involved with the sou
+  q0 ml_selected  mems= 8 tok= 249 judge=4  I'm so glad to hear that! It's wonderful how giving back can shift you
+  q1 no_memory    mems= 0 tok=   0 judge=4  Actually, I remember that you mentioned earlier that your sister's far
+  q1 store_all    mems=52 tok=1038 judge=4  I think we've established that you have a soft spot for birds, especia
+  q1 top_k        mems= 5 tok= 113 judge=4  I'm glad you're excited about helping out! Actually, I think you menti
+  q1 ml_selected  mems= 8 tok= 274 judge=3  I'm glad you're excited about volunteering together! As for animals, I
+  q2 no_memory    mems= 0 tok=   0 judge=3  It's true that cartoons often depict cats and dogs as sworn enemies! H
+  q2 store_all    mems=52 tok=1038 judge=3  I remember you mentioning your bird loves cheeseburgers! As for your c
+  q2 top_k        mems= 5 tok=  91 judge=4  Getting a dog can be a big decision, especially with a cat already in 
+  q2 ml_selected  mems= 8 tok= 273 judge=4  Getting a dog can be a big decision! It's great that you're considerin
+  q3 no_memory    mems= 0 tok=   0 judge=2  No, I didn't name my bird "Cheese" because of cheeseburgers. Actually,
+  q3 store_all    mems=52 tok=1038 judge=3  No, I didn't name her Cheese because of her love for cheeseburgers, bu
+  q3 top_k        mems= 5 tok=  57 judge=3  No, I actually named her after a different type of food, but I'm glad 
+  q3 ml_selected  mems= 8 tok= 250 judge=3  No, I didn't name her Cheese because of that reason. I actually named 
+
+=== Episode 4: 50 memories, 13 persona facts, 6 queries. Classifier: LogisticRegression
+  q0 no_memory    mems= 0 tok=   0 judge=4  Germany is known for its excellent Riesling and Pinot Gris wines, part
+  q0 store_all    mems=50 tok= 908 judge=4  Germany is a wonderful country with a rich wine culture! You'll have t
+  q0 top_k        mems= 5 tok=  74 judge=4  That's great to hear that you're interested in exploring German whites
+  q0 ml_selected  mems= 8 tok= 225 judge=4  Germany is a wonderful country with a rich wine culture! You'll have p
+  q1 no_memory    mems= 0 tok=   0 judge=3  I'd love to help, but I'm a virtual assistant and can't physically acc
+  q1 store_all    mems=50 tok= 908 judge=3  I'd love to join you both on your wine adventure! However, I think it'
+  q1 top_k        mems= 5 tok=  66 judge=3  I'd be happy to join you, but I think your family might enjoy the even
+  q1 ml_selected  mems= 8 tok= 238 judge=4  I think you're referring to the wine tasting event we discussed earlie
+  q2 no_memory    mems= 0 tok=   0 judge=3  That's very kind of you, but I don't drink wine myself. However, if yo
+  q2 store_all    mems=50 tok= 908 judge=4  That's very kind of you! I'd love to try the gewurztraminer you mentio
+  q2 top_k        mems= 5 tok=  82 judge=4  That's so sweet of you to offer! I'd love it if you could pick up some
+  q2 ml_selected  mems= 8 tok= 231 judge=3  That's very kind of you to think of me! But I must admit, I still pref
+  q3 no_memory    mems= 0 tok=   0 judge=4  Auschwitz is a very important and somber historical site, but it's def
+  q3 store_all    mems=50 tok= 908 judge=3  I remember you mentioning your interest in wine and dancing earlier! B
+  q3 top_k        mems= 5 tok=  84 judge=4  I remember you mentioned your interest in history and visiting Auschwi
+  q3 ml_selected  mems= 8 tok= 230 judge=4  A somber note! I remember your interest in wine, but it's great to hea
+
+=== Episode 5: 54 memories, 11 persona facts, 6 queries. Classifier: LogisticRegression
+  q0 no_memory    mems= 0 tok=   0 judge=4  I'm flattered by the invitation, but I don't think I'll be able to att
+  q0 store_all    mems=54 tok=1329 judge=3  That sounds great! I'd love to join your study group and finally get o
+  q0 top_k        mems= 5 tok= 237 judge=4  That sounds like a blast! I'd love to join your study group and hang o
+  q0 ml_selected  mems= 8 tok= 410 judge=4  That sounds like a blast! I'd love to join you and catch up on some st
+  q1 no_memory    mems= 0 tok=   0 judge=4  That's very considerate of you, but I think it would actually be great
+  q1 store_all    mems=54 tok=1329 judge=4  I think it's great that we're forming a study group together, and I'm 
+  q1 top_k        mems= 5 tok= 224 judge=4  I remember how excited you were about joining a study group and making
+  q1 ml_selected  mems= 8 tok= 402 judge=4  I'm glad we're on the same page about forming a study group. Actually,
+  q2 no_memory    mems= 0 tok=   0 judge=4  That sounds like a great number for our team meeting. I'll make sure t
+  q2 store_all    mems=54 tok=1329 judge=4  That sounds perfect! I think it would be great to have a small group l
+  q2 top_k        mems= 5 tok= 221 judge=4  That sounds like a great number for a study group! I think it'll be ea
+  q2 ml_selected  mems= 8 tok= 410 judge=3  That sounds like a great number for a study group! Six people can work
+  q3 no_memory    mems= 0 tok=   0 judge=4  I'm looking forward to attending the biology event with you. That soun
+  q3 store_all    mems=54 tok=1329 judge=4  That sounds amazing! A sound-proofed room will definitely help with st
+  q3 top_k        mems= 5 tok= 167 judge=3  That's great to hear that the dorm room is soundproofed, it'll definit
+  q3 ml_selected  mems= 8 tok= 413 judge=4  That sounds amazing! I'm really looking forward to studying with you a
+
+=== Episode 6: 50 memories, 17 persona facts, 6 queries. Classifier: LogisticRegression
+  q0 no_memory    mems= 0 tok=   0 judge=4  That's great news! I'm glad to hear that your cow is on the mend. Did 
+  q0 store_all    mems=50 tok=1144 judge=3  I'm glad to hear that your cow is on the mend! It was a close call, bu
+  q0 top_k        mems= 5 tok=  53 judge=4  That's great news! I'm glad to hear that your cow is on the mend, just
+  q0 ml_selected  mems= 8 tok= 284 judge=3  That's great news about your cow! I'm glad to hear she's on the road t
+  q1 no_memory    mems= 0 tok=   0 judge=4  I remember you mentioning that your sister was in a serious accident r
+  q1 store_all    mems=50 tok=1144 judge=3  I'm glad to hear your cow is doing better. It must be a huge relief fo
+  q1 top_k        mems= 5 tok= 147 judge=4  I remember you mentioned your cow wasn't eating and seemed lethargic t
+  q1 ml_selected  mems= 8 tok= 335 judge=3  I can imagine how stressful and worrying it must be when a pet isn't f
+  q2 no_memory    mems= 0 tok=   0 judge=4  I'm still in the design phase, trying to finalize the mechanical and e
+  q2 store_all    mems=50 tok=1144 judge=4  You're still working on the response coordination and reply input, whi
+  q2 top_k        mems= 5 tok= 129 judge=4  I'm about 70% complete on the mechanical and electrical aspects of the
+  q2 ml_selected  mems= 8 tok= 339 judge=4  I'm making good progress, still working on refining the response coord
+  q3 no_memory    mems= 0 tok=   0 judge=4  I'm glad you liked the idea of a British accent, old chap! I was think
+  q3 store_all    mems=50 tok=1144 judge=4  I love the idea of making your robot sound like Alfred from Batman! A 
+  q3 top_k        mems= 5 tok= 138 judge=4  An excellent choice! A deep, smooth voice with a hint of sophisticatio
+  q3 ml_selected  mems= 8 tok= 325 judge=3  A British accent is a great choice, especially one as iconic as Alfred
+
+=== Episode 7: 50 memories, 14 persona facts, 6 queries. Classifier: LogisticRegression
+  q0 no_memory    mems= 0 tok=   0 judge=4  That sounds like fun! I remember you mentioned last time we talked tha
+  q0 store_all    mems=50 tok= 905 judge=3  That sounds like so much fun! I'm sure they'll love whatever treats yo
+  q0 top_k        mems= 5 tok=  81 judge=4  That sounds like so much fun! I'm sure your grandkids will love whatev
+  q0 ml_selected  mems= 8 tok= 175 judge=4  That sounds like fun! I'm sure the grandkids will love whatever you ba
+  q1 no_memory    mems= 0 tok=   0 judge=4  I'm excited to hear that you're trying something new! White chocolate 
+  q1 store_all    mems=50 tok= 905 judge=4  White chocolate and macadamia nut cookies sound delicious! You mention
+  q1 top_k        mems= 5 tok= 115 judge=3  It sounds like you're trying out a new recipe despite your earlier con
+  q1 ml_selected  mems= 8 tok= 174 judge=4  White chocolate and macadamia nut sounds like an interesting combinati
+  q2 no_memory    mems= 0 tok=   0 judge=4  I remember you mentioned your grandkids love helping out in the kitche
+  q2 store_all    mems=50 tok= 905 judge=4  I'm glad to hear that your grandkids enjoy your cookies! Using too man
+  q2 top_k        mems= 5 tok=  95 judge=4  It sounds like your grandkids love a good chunk of chocolate in their 
+  q2 ml_selected  mems= 8 tok= 182 judge=4  It sounds like your peanut butter cookies are a hit with the grandkids
+  q3 no_memory    mems= 0 tok=   0 judge=4  It can be challenging to keep track of two identical 8-year-old twins!
+  q3 store_all    mems=50 tok= 905 judge=4  That's adorable! I'm sure it's not easy keeping track of two energetic
+  q3 top_k        mems= 5 tok=  90 judge=3  I'm glad you're excited about the shortbread! I'm sure your twin grand
+  q3 ml_selected  mems= 8 tok= 203 judge=4  I remember your grandkids being 8-year-old twins! That must be adorabl
+
+Summary by mode:
+             avg_judge  avg_context_tokens  avg_memories
+mode                                                    
+ml_selected       3.72              280.91          7.94
+no_memory         3.78                0.00          0.00
+store_all         3.69             1062.88         51.00
+top_k             3.81              122.75          5.00
+
+Saved -> /Users/raghav/my files/projects/cluade code/memory_classifeer/results/llm_comparison.csv, /Users/raghav/my files/projects/cluade code/memory_classifeer/results/llm_summary.csv

@@ -1,0 +1,5 @@
+mode,avg_judge,avg_context_tokens,avg_memories
+ml_selected,3.72,280.91,7.94
+no_memory,3.78,0.0,0.0
+store_all,3.69,1062.88,51.0
+top_k,3.81,122.75,5.0
